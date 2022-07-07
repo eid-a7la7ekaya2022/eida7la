@@ -11,7 +11,7 @@ body {
 	font-family: Tahoma, Geneva, sans-serif;
 	text-decoration: none !important;
 	direction: rtl;
-	min-width: 960px !important;
+	min-width: 1100px !important;
 	font-size: 12px;
 	color: #696969;
 }
@@ -27,13 +27,13 @@ a {
 	margin: auto;
 }
 .w960 {
-	width: 960px !important;
+	width: 1100px !important;
 	margin: auto;
 	display: block;
 	height: auto;
 	padding: 0;
-	max-width: 960px;
-	min-width: 960px;
+	max-width: 1100px;
+	min-width: 1100px;
 }
 .right {
 	float: right;
@@ -86,7 +86,7 @@ header {
 	display: block;
 	clear: both;
 	height: 140px;
-	width: 960px;
+	width: 1100px;
 	margin: auto;
 	margin-top: 20px;
 }
@@ -653,7 +653,7 @@ select {
 	border-top: 5px #fff;
 }
 nav {
-	width: 960px;
+	width: 1100px;
 	margin: auto;
 	display: block;
 	border: solid 1px #E0EBEF;
@@ -1354,7 +1354,7 @@ input[type="password"], input[type="text"] {
 	padding: 10px;
 }
 .welcome {
-	width: 960px;
+	width: 1100px;
 	margin: auto;
 	display: block;
 	clear: both;
