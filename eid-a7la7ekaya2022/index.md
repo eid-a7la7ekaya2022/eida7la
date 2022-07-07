@@ -5,7 +5,7 @@
 </head>
 <body>
 <div align="center" style="padding-top:100px;">
-<h1>DESIGNED BY. <a href="https://www.a7la7ekaya.com/" target="_blank">MHGOZ.com.eg</a></h1>
+<h1>DESIGNED BY. <a href="https://www.a7la7ekaya.com/" target="_blank">a7la7ekaya.com</a></h1>
 <h3>this is a protected page !!</h3>
 </div>
 </body>
