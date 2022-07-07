@@ -2533,9 +2533,32 @@ tbody tr td:last-child {
 	margin-top: 10px;
 	color: #79AA54 !important;
 }
-.nav-title span {
+.nav-title span a.montada_new_name {
 	color: #79AA54 !important;
 	margin-left: 5px;
+}
+span#usnamestrong {
+    font-size: 0;
+}
+span#usnamestrong strong {
+    font-size: 12px;
+}
+
+.nav-title.nav {
+    font-size: 0;
+}
+
+.nav-title.nav span.navbar a::before {
+    font-size: 12px;
+    font-family: FontAwesome;
+    content: "\f000";
+    display: inline-block;
+    padding-right: 3px;
+    vertical-align: middle;
+    font-weight: 900;
+    font-size: 12px;
+    padding-left: 5px;
+    color: #79AA54;
 }
 .rslect {
 	margin-right: 10px;
