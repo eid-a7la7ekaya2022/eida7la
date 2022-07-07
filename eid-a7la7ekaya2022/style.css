@@ -329,7 +329,7 @@ footer {
 .nav_social a:hover:nth-child(1) { background-color: #C40000; }
 .nav_social a:hover:nth-child(2) { background-color: #06BFE7; }
 .nav_social a:hover:nth-child(3) { background-color: #0574CA; }
-.buttontt {
+.buttoontt {
 	float: left;
 	display: block;
 	position: relative;
@@ -2517,12 +2517,14 @@ tbody tr td:last-child {
 	background-color: #0c7b8c;
 }
 .buttontt {
-	background-color: transparent !important;
-	color: #838383 !important;
-	font-family: Mhgoz-Icons, Tahoma, Geneva, sans-serif !important;
-	left: 2px;
-	position: absolute;
-	top: 5px;
+    background-color: transparent !important;
+    color: #838383 !important;
+    font-family: Mhgoz-Icons, Tahoma, Geneva, sans-serif !important;
+    left: 3px;
+    position: relative;
+    top: -29px;
+    float: left;
+    margin: 0 auto 0 auto;
 }
 .nav-title {
 	clear: both;
