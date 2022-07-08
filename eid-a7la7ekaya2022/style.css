@@ -1665,7 +1665,28 @@ table {
 	font-size: 12px;
 	font-weight: bold;
 }
+
 .contact {
+	border: 1px solid #DBDBDB;
+	border-radius: 4px;
+	display: block;
+	height: 30px;
+	left: 10px;
+	padding-left: 7px;
+	position: absolute;
+	top: 7px;
+	width: auto;
+}
+.contact a {
+	color: #7A7A7A;
+	font-family: tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 30px;
+	margin-right: 5px;
+}
+
+div#display-footer {
     border: 1px solid #DBDBDB;
     border-radius: 4px;
     display: block;
@@ -1677,7 +1698,7 @@ table {
     width: auto;
 }
 
-.contact a {
+div#display-footer a {
 	color: #7A7A7A;
 	font-family: tahoma;
 	font-size: 12px;
