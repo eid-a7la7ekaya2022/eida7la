@@ -1715,14 +1715,8 @@ div#page-footer .gen span.gensmall, div#page-footer .gen strong a[href="https://
 div#page-footer .gen span.gensmall, div#page-footer .gen strong a[href="https://www.ahlamontada.com/directory/society-and-culture/misc"], div#page-footer .gen strong a[href="https://www.ahlamontada.com/directory/society-and-culture"], div#page-footer .gen strong a[href="https://www.ahlamontada.com/directory/society-and-culture/childhood-family"], div#page-footer .gen, div#page-footer .gen strong a[href="http://www.xn--ggblabomu0b9kceef2bt.com"], div#page-footer .gen strong a[href="https://www.ahlamontada.com/directory/computers-and-internet/computers"], div#page-footer .gen strong a[href="https://www.ahlamontada.com/directory/computers-and-internet"], div#page-footer .gen strong a[href="http://www.xn--ggblanz0a5jee6a.com"], div#page-footer .gen strong a[href="http://www.xn--mgbfgl2icefxo.com"], div#page-footer .gen strong a[href="https://www.ahlamontada.com/"], div#page-footer .gen strong a[href="https://www.ahlamontada.com/a-free-forum"], div#page-footer .gen strong a[href="https://www.ahlamontada.com/create-a-forum"], div#page-footer .gen strong a[href="https://www.ahlamontada.com/create-forum/phpbb3"], div#page-footer .gen strong a[href="https://www.ahlamontada.com/create-free-forum"] {
     font-size: 0;
 }
-div#page-footer div div.gen strong a {
-    font-weight: 600;
-    top: -51px;
-    position: relative;
-    color: #7a7a8e;
-    /* padding-left: 100px; */
-    padding-right: 450px;
-}
+
+
 div#page-footer div div.gen strong a::before {
     font-family: FontAwesome;
     content: "\f013";
